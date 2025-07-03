@@ -27,4 +27,4 @@ return item;
 console.log('resul taxes compilation', totalCombination2 );
 
 
-//Cambio adicional para hacer commits 
+
