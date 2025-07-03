@@ -27,4 +27,6 @@ return item;
 console.log('resul taxes compilation', totalCombination2 );
 
 
+const Productosentregados = orders.reduce ((sum, item)=> sum + item.total, 0)
+console.log(Productosentregados);
 
